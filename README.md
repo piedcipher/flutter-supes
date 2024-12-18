@@ -2,7 +2,7 @@
 
 🦸 Flutter Supes is a Chrome extension that filters out the names of contributors from Flutter release notes 💙
 
-![1000089314](https://github.com/user-attachments/assets/e8f51be9-efa8-463a-89c3-782b079f557a)
+<img src='https://github.com/user-attachments/assets/e8f51be9-efa8-463a-89c3-782b079f557a' width=350>
 
 ### Screenshots
 
