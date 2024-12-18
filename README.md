@@ -1,8 +1,8 @@
-# Flutter Supes
+<h1 align="center">Flutter Supes</h1>
 
-🦸 Flutter Supes is a Chrome extension that filters out the names of contributors from Flutter release notes 💙
+<p align="center">🦸 Flutter Supes is a Chrome extension that filters out the names of contributors from Flutter release notes 💙</p>
 
-<img src='https://github.com/user-attachments/assets/e8f51be9-efa8-463a-89c3-782b079f557a' width=150>
+<p align="center"><img src="https://github.com/user-attachments/assets/e8f51be9-efa8-463a-89c3-782b079f557a" width=150></p>
 
 ### Screenshots
 
